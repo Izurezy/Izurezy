@@ -8,7 +8,7 @@ Software engineering is not just a profession for me – it's a passion. The abi
 
 ## 📚 Education
 
-I am currently a sophomore enrolled in a CTE (Career and Technical Education) high school/secondary school, specializing in Cisco Networking. This immersive educational experience enables me to explore the nuances of networking technology, providing a solid foundation for my future pursuits in the field. This journey not only allows me to improve my collaborative skills but also grants me a deeper understanding of networking, offering knowledge that can give me a cutting edge in industries such as backend development, server-side game development, and many more.
+I am currently a sophomore enrolled in a CTE (Career and Technical Education) high school/secondary school, specializing in Cisco IT. This immersive educational experience enables me to explore the intricacies of information technology, providing a solid foundation for my future pursuits in the field. This journey not only allows me to improve my collaborative skills but also grants me a deeper understanding of IT systems, offering knowledge that can give me a cutting edge in industries such as backend development, server-side game development, cybersecurity, and many more.
 
 ## 🛠 Languages and Tools
 
